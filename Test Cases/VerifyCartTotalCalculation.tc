@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when user changes the quantity the total amount displayed is correct</description>
+   <name>VerifyCartTotalCalculation</name>
+   <tag>Cart</tag>
+   <comment></comment>
+   <testCaseGuid>eaa4a491-49aa-41db-af0d-6b55f83b0268</testCaseGuid>
+</TestCaseEntity>
